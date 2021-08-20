@@ -1,4 +1,4 @@
-# Lambda Authorizer POC
+# Lambda Authorizer Test
 
 ### Scripts
 
